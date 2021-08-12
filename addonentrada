@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR palegreen]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lightgreen]FILMES[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/377/281/original/1628712410648.jpg?1628713243</thumbnail>
 
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR yellowgreen]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR mediumspringgreen]SÉRIES[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/377/282/original/1628712509833.jpg?1628713263</thumbnail>
 
@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR lightgreen]MÚSICAS[/COLOR][/B]</name>
+<name>[B][COLOR palegreen]MÚSICAS[/COLOR][/B]</name>
 
 <externallink>https://pastebin.com/raw/jUasTTM6</externallink>
 
