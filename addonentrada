@@ -3,7 +3,7 @@
 
 <channel>
 
-<name>[COLOR lightblue]Apoio PIX[/COLOR]</name>
+<name>[B][COLOR lightblue]Apoio PIX[/COLOR][B]</name>
 
 <thumbnail>https://i.imgur.com/U8MQTyo.jpg</thumbnail>
 
@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR lightgreen]Filmes[/COLOR]</name>
+<name>[B][COLOR lightgreen]Filmes[/COLOR][B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/377/281/original/1628712410648.jpg?1628713243</thumbnail>
 
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR mediumspringgreen]Séries[/COLOR]</name>
+<name>[B][COLOR mediumspringgreen]Séries[/COLOR][B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/377/282/original/1628712509833.jpg?1628713263</thumbnail>
 
@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR palegreen]Músicas[/COLOR]</name>
+<name>[B][COLOR palegreen]Músicas[/COLOR][B]</name>
 
 <externallink>https://pastebin.com/raw/jUasTTM6</externallink>
 
