@@ -20,23 +20,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]Filmes[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/377/281/original/1628712410648.jpg?1628713243</thumbnail>
-
-<externallink>https://github.com/viko02/entradahfilmes/raw/main/entradahfilmes</externallink>
-
-<fanart>https://uploaddeimagens.com.br/images/003/376/014/original/images.jpeg?1628669822</fanart>
-
-
-<info>[COLOR aquamarine]Para que possamos voltar às nossas rotinas o mais breve possível, o isolamento social é o principal foco no momento. Diante dessa situação, o Addon [/COLOR][B][COLOR lightgreen]Click[/COLOR][/B] [COLOR aquamarine]pretende te ajudar a encontrar os melhores filmes, em alta qualidade, para você assistir online, no conforto da sua casa. São diversas opções, navegue e encontre a sua.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
 <name>[B][COLOR aquamarine]Click Dicas[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/RDMhgOa.jpg</thumbnail>
@@ -52,6 +35,39 @@ Para quem está perdido e não sabe muito bem o que escolher entre tantas opçõ
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Click Kids[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/450/346/original/1632660983168.jpg?1632661078</thumbnail>
+
+<externallink>https://github.com/viko02/entrada_kid_filmeseries/raw/main/entrada_kid_filmeseries</externallink>
+
+<fanart>https://i.imgur.com/N78BdFv.jpg</fanart>
+
+<info>[COLOR aquamarine]Assistir a um bom filme ou maratonar uma série é sempre uma boa pedida, não é mesmo? E quando a sessão televisiva é em família, tudo se torna ainda mais gostoso! Além de ser um programa super animado, as histórias podem trazer muita inspiração e também aprendizado para os pequenos e pequenas! Está esperando o quê para preparar a pipoca e começar a diversão? Veja minhas dicas de filmes e séries infantis para assistir em família![/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Filmes[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/281/original/1628712410648.jpg?1628713243</thumbnail>
+
+<externallink>https://github.com/viko02/entradahfilmes/raw/main/entradahfilmes</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/003/376/014/original/images.jpeg?1628669822</fanart>
+
+
+<info>[COLOR aquamarine]Para que possamos voltar às nossas rotinas o mais breve possível, o isolamento social é o principal foco no momento. Diante dessa situação, o Addon [/COLOR][B][COLOR lightgreen]Click[/COLOR][/B] [COLOR aquamarine]pretende te ajudar a encontrar os melhores filmes, em alta qualidade, para você assistir online, no conforto da sua casa. São diversas opções, navegue e encontre a sua.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
