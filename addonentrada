@@ -3,15 +3,16 @@
 
 <channel>
 
-<name>[B][COLOR lightgreen]Apoio PIX[/COLOR][/B]</name>
+<name>[B][COLOR lightgreen]Apoio[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/U8MQTyo.jpg</thumbnail>
 
 <externallink>https://github.com/</externallink>
 
-<fanart>https://captadores.org.br/wp-content/uploads/2020/02/pix2-768x315.jpg</fanart>
+<fanart>https://i.imgur.com/4aMKPac.jpeg</fanart>
 
 <info>[B][COLOR lightgreen]Click [/COLOR][/B][COLOR aquamarine]já cadastrou uma chave[/COLOR][B] [COLOR aquamarine]PIX[/COLOR][/B], [COLOR aquamarine] e está aceitando doações de qualquer valor para incentivar esse trabalho. basta redirecionar a câmera do celular no QR Code que está na imagem ao lado ou pela chave[/COLOR] [B][COLOR aquamarine]PIX[/COLOR][/B] [COLOR aquamarine]de e-mail: [/COLOR][B][COLOR aquamarine]addonreviva@gmail.com[/COLOR][/B]
+[B][COLOR yellow]PayPal: viko.ok2012@gmail.com
 [B][COLOR lightgreen]Muito Obrigado,  De Coração![/COLOR][/B]</info>
 
 </channel>
@@ -20,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]Click Dicas[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]Dicas[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/RDMhgOa.jpeg</thumbnail>
 
@@ -35,6 +36,22 @@ Para quem está perdido e não sabe muito bem o que escolher entre tantas opçõ
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Kids[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/450/346/original/1632660983168.jpg?1632661078</thumbnail>
+
+<externallink>https://github.com/viko02/entrada_kid_filmeseries/raw/main/entrada_kid_filmeseries</externallink>
+
+<fanart>https://i.imgur.com/N78BdFv.jpg</fanart>
+
+<info>[COLOR aquamarine]Assistir a um bom filme ou maratonar uma série é sempre uma boa pedida, não é mesmo? E quando a sessão televisiva é em família, tudo se torna ainda mais gostoso! Além de ser um programa super animado, as histórias podem trazer muita inspiração e também aprendizado para os pequenos e pequenas! Está esperando o quê para preparar a pipoca e começar a diversão? Veja minhas dicas de filmes e séries infantis para assistir em família![/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
@@ -85,14 +102,7 @@ Sejam bem-vindos ao mundo maravilhoso da música.[/COLOR]</info>
 
 </channel>
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-baby Kidd
-
-
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channels>
+
